@@ -11,7 +11,7 @@ import SwiftUI
 struct DataFlowSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StateExample()
         }
     }
 }
